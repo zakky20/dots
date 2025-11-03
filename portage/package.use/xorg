@@ -1,0 +1,19 @@
+sys-auth/pambase elogind
+media-libs/libglvnd X
+>=media-libs/libvpx-1.15.2 postproc
+>=x11-base/xorg-server-21.1.18 xvfb
+>=dev-libs/libdbusmenu-16.04.0-r4 gtk3
+>=x11-libs/libdrm-2.4.125 video_cards_nouveau video_cards_radeon video_cards_amdgpu
+>=media-video/ffmpeg-7.1.2 opus
+>=x11-libs/gtk+-3.24.51 wayland
+>=sys-libs/zlib-1.3.1-r1 minizip
+>=media-libs/mesa-25.1.9 wayland
+>=media-video/ffmpeg-7.1.2 vpx
+>=dev-util/perf-6.14 libpfm
+>=sys-devel/gcc-14.3.1_p20250801 jit
+>=dev-qt/qtbase-6.9.3 wayland
+>=kde-frameworks/kwindowsystem-6.18.0 wayland
+>=media-libs/mlt-7.32.0 ffmpeg frei0r
+>=media-libs/opencv-4.11.0-r1 contribdnn contrib features2d
+>=media-libs/babl-0.1.116 introspection
+>=media-libs/gegl-0.4.64-r1 introspection

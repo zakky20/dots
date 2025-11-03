@@ -1,0 +1,285 @@
+# package.accept_keywords# required by bluez-tools (argument)
+=net-wireless/bluez-tools-0_p20201025-r1 ~amd64
+# required by nwg-look (argument)
+=app-misc/nwg-look-1.0.6 ~amd64
+# required by app-misc/nwg-look-1.0.6::guru
+# required by nwg-look (argument)
+=x11-apps/xcur2png-0.7.1-r3 ~amd64
+# required by zoxide (argument)
+=app-shells/zoxide-0.9.8 ~amd64
+# required by media-video/obs-studio (argument)
+=media-video/obs-studio-32.0.1 ~amd64
+# required by games-action/minecraft-launcher (argument)
+=games-action/minecraft-launcher-1.0.1221 ~amd64
+# required by net-misc/anydesk (argument)
+=net-misc/anydesk-7.0.0 ~amd64
+# required by www-apps/jellyfin-bin (argument)
+=www-apps/jellyfin-bin-10.11.1 ~amd64
+# required by heroic-bin (argument)
+=games-util/heroic-bin-2.18.1 ~amd64
+# required by sys-kernel/cachyos-settings (argument)
+=sys-kernel/cachyos-settings-20240114 ~amd64
+# required by dev-util/shellcheck (argument)
+=dev-util/shellcheck-0.9.0-r2 ~amd64
+# required by dev-haskell/comonad-5.0.8-r1::gentoo
+# required by dev-haskell/bifunctors-5.5.15::gentoo
+# required by dev-haskell/semigroupoids-5.3.7-r1::gentoo
+# required by dev-haskell/semialign-1.3::gentoo[semigroupoids]
+# required by dev-haskell/aeson-2.1.2.1::gentoo
+# required by dev-util/shellcheck-0.9.0-r2::gentoo
+# required by dev-util/shellcheck (argument)
+=dev-haskell/tagged-0.8.7 ~amd64
+# required by dev-haskell/strict-0.5::gentoo
+# required by dev-haskell/aeson-2.1.2.1::gentoo
+# required by dev-util/shellcheck-0.9.0-r2::gentoo
+# required by dev-util/shellcheck (argument)
+=dev-haskell/text-1.2.5.0-r1 ~amd64
+# required by dev-haskell/semigroupoids-5.3.7-r1::gentoo
+# required by dev-haskell/semialign-1.3::gentoo[semigroupoids]
+# required by dev-haskell/aeson-2.1.2.1::gentoo
+# required by dev-util/shellcheck-0.9.0-r2::gentoo
+# required by dev-util/shellcheck (argument)
+=dev-haskell/contravariant-1.5.5 ~amd64
+# required by dev-util/shellcheck-0.9.0-r2::gentoo
+# required by dev-util/shellcheck (argument)
+=dev-haskell/parsec-3.1.15.0-r1 ~amd64
+# required by dev-util/shellcheck-0.9.0-r2::gentoo
+# required by dev-util/shellcheck (argument)
+=dev-haskell/regex-tdfa-1.3.2.2 ~amd64
+# required by dev-haskell/base-compat-batteries-0.13.0::gentoo
+# required by dev-haskell/aeson-2.1.2.1::gentoo
+# required by dev-util/shellcheck-0.9.0-r2::gentoo
+# required by dev-util/shellcheck (argument)
+=dev-haskell/base-compat-0.13.0 ~amd64
+# required by dev-util/shellcheck-0.9.0-r2::gentoo
+# required by dev-util/shellcheck (argument)
+=dev-haskell/fgl-5.8.1.1 ~amd64
+# required by dev-util/shellcheck-0.9.0-r2::gentoo
+# required by dev-util/shellcheck (argument)
+=dev-haskell/diff-0.4.1 ~amd64
+# required by dev-haskell/aeson-2.1.2.1::gentoo
+# required by dev-util/shellcheck-0.9.0-r2::gentoo
+# required by dev-util/shellcheck (argument)
+=dev-haskell/vector-0.12.3.1-r1 ~amd64
+# required by dev-haskell/aeson-2.1.2.1::gentoo
+# required by dev-util/shellcheck-0.9.0-r2::gentoo
+# required by dev-util/shellcheck (argument)
+=dev-haskell/dlist-1.0 ~amd64
+# required by dev-haskell/aeson-2.1.2.1::gentoo
+# required by dev-util/shellcheck-0.9.0-r2::gentoo
+# required by dev-util/shellcheck (argument)
+=dev-haskell/base-compat-batteries-0.13.0 ~amd64
+# required by dev-lang/ghc-9.2.8::gentoo[-ghcbootstrap]
+# required by dev-haskell/attoparsec-0.14.4-r1::gentoo
+# required by dev-haskell/aeson-2.1.2.1::gentoo
+# required by dev-util/shellcheck-0.9.0-r2::gentoo
+# required by dev-util/shellcheck (argument)
+=app-admin/haskell-updater-1.4.1.0 ~amd64
+# required by dev-haskell/hashable-1.4.2.0-r2::gentoo
+# required by dev-haskell/data-fix-0.3.2-r1::gentoo
+# required by dev-haskell/aeson-2.1.2.1::gentoo
+# required by dev-util/shellcheck-0.9.0-r2::gentoo
+# required by dev-util/shellcheck (argument)
+=dev-haskell/data-array-byte-0.1.0.1 ~amd64
+# required by dev-haskell/aeson-2.1.2.1::gentoo
+# required by dev-util/shellcheck-0.9.0-r2::gentoo
+# required by dev-util/shellcheck (argument)
+=dev-haskell/data-fix-0.3.2-r1 ~amd64
+# required by dev-haskell/aeson-2.1.2.1::gentoo
+# required by dev-util/shellcheck-0.9.0-r2::gentoo
+# required by dev-util/shellcheck (argument)
+=dev-haskell/time-compat-1.9.6.1-r1 ~amd64
+# required by dev-haskell/semialign-1.3::gentoo
+# required by dev-haskell/aeson-2.1.2.1::gentoo
+# required by dev-util/shellcheck-0.9.0-r2::gentoo
+# required by dev-util/shellcheck (argument)
+=dev-haskell/indexed-traversable-instances-0.1.1.2 ~amd64
+# required by dev-haskell/aeson-2.1.2.1::gentoo
+# required by dev-util/shellcheck-0.9.0-r2::gentoo
+# required by dev-util/shellcheck (argument)
+=dev-haskell/generically-0.1.1-r1 ~amd64
+# required by dev-haskell/onetuple-0.4.1.1::gentoo
+# required by dev-haskell/base-compat-batteries-0.13.0::gentoo
+# required by dev-haskell/aeson-2.1.2.1::gentoo
+# required by dev-util/shellcheck-0.9.0-r2::gentoo
+# required by dev-util/shellcheck (argument)
+=dev-haskell/foldable1-classes-compat-0.1 ~amd64
+# required by dev-haskell/semigroupoids-5.3.7-r1::gentoo
+# required by dev-haskell/semialign-1.3::gentoo[semigroupoids]
+# required by dev-haskell/aeson-2.1.2.1::gentoo
+# required by dev-util/shellcheck-0.9.0-r2::gentoo
+# required by dev-util/shellcheck (argument)
+=dev-haskell/bifunctors-5.5.15 ~amd64
+# required by dev-haskell/scientific-0.3.7.0-r2::gentoo
+# required by dev-haskell/attoparsec-0.14.4-r1::gentoo
+# required by dev-haskell/aeson-2.1.2.1::gentoo
+# required by dev-util/shellcheck-0.9.0-r2::gentoo
+# required by dev-util/shellcheck (argument)
+=dev-haskell/primitive-0.7.4.0 ~amd64
+# required by dev-haskell/semigroupoids-5.3.7-r1::gentoo
+# required by dev-haskell/semialign-1.3::gentoo[semigroupoids]
+# required by dev-haskell/aeson-2.1.2.1::gentoo
+# required by dev-util/shellcheck-0.9.0-r2::gentoo
+# required by dev-util/shellcheck (argument)
+=dev-haskell/distributive-0.6.2.1 ~amd64
+# required by dev-haskell/strict-0.5::gentoo
+# required by dev-haskell/aeson-2.1.2.1::gentoo
+# required by dev-util/shellcheck-0.9.0-r2::gentoo
+# required by dev-util/shellcheck (argument)
+=dev-haskell/assoc-1.1 ~amd64
+# required by dev-haskell/statevar-1.2.2::gentoo
+# required by dev-haskell/contravariant-1.5.5::gentoo[statevar]
+# required by dev-haskell/semigroupoids-5.3.7-r1::gentoo
+# required by dev-haskell/semialign-1.3::gentoo[semigroupoids]
+# required by dev-haskell/aeson-2.1.2.1::gentoo
+# required by dev-util/shellcheck-0.9.0-r2::gentoo
+# required by dev-util/shellcheck (argument)
+=dev-haskell/stm-2.5.0.2-r1 ~amd64
+# required by dev-haskell/aeson-2.1.2.1::gentoo
+# required by dev-util/shellcheck-0.9.0-r2::gentoo
+# required by dev-util/shellcheck (argument)
+=dev-haskell/attoparsec-0.14.4-r1 ~amd64
+# required by dev-haskell/aeson-2.1.2.1::gentoo
+# required by dev-util/shellcheck-0.9.0-r2::gentoo
+# required by dev-util/shellcheck (argument)
+=dev-haskell/semialign-1.3 ~amd64
+# required by dev-haskell/witherable-0.4.2-r1::gentoo
+# required by dev-haskell/aeson-2.1.2.1::gentoo
+# required by dev-util/shellcheck-0.9.0-r2::gentoo
+# required by dev-util/shellcheck (argument)
+=dev-haskell/base-orphans-0.9.0 ~amd64
+# required by dev-haskell/aeson-2.1.2.1::gentoo
+# required by dev-util/shellcheck-0.9.0-r2::gentoo
+# required by dev-util/shellcheck (argument)
+=dev-haskell/text-short-0.1.5-r1 ~amd64
+# required by dev-haskell/regex-tdfa-1.3.2.2::gentoo
+# required by dev-util/shellcheck-0.9.0-r2::gentoo
+# required by dev-util/shellcheck (argument)
+=dev-haskell/regex-base-0.94.0.2 ~amd64
+# required by dev-util/shellcheck-0.9.0-r2::gentoo
+# required by dev-util/shellcheck (argument)
+=dev-haskell/aeson-2.1.2.1 ~amd64
+# required by dev-haskell/semialign-1.3::gentoo[semigroupoids]
+# required by dev-haskell/aeson-2.1.2.1::gentoo
+# required by dev-util/shellcheck-0.9.0-r2::gentoo
+# required by dev-util/shellcheck (argument)
+=dev-haskell/semigroupoids-5.3.7-r1 ~amd64
+# required by dev-haskell/aeson-2.1.2.1::gentoo
+# required by dev-util/shellcheck-0.9.0-r2::gentoo
+# required by dev-util/shellcheck (argument)
+=dev-haskell/uuid-types-1.0.5-r1 ~amd64
+# required by dev-haskell/indexed-traversable-instances-0.1.1.2::gentoo
+# required by dev-haskell/semialign-1.3::gentoo
+# required by dev-haskell/aeson-2.1.2.1::gentoo
+# required by dev-util/shellcheck-0.9.0-r2::gentoo
+# required by dev-util/shellcheck (argument)
+=dev-haskell/unordered-containers-0.2.19.1 ~amd64
+# required by dev-haskell/semialign-1.3::gentoo
+# required by dev-haskell/aeson-2.1.2.1::gentoo
+# required by dev-util/shellcheck-0.9.0-r2::gentoo
+# required by dev-util/shellcheck (argument)
+=dev-haskell/these-1.2 ~amd64
+# required by dev-haskell/contravariant-1.5.5::gentoo[statevar]
+# required by dev-haskell/semigroupoids-5.3.7-r1::gentoo
+# required by dev-haskell/semialign-1.3::gentoo[semigroupoids]
+# required by dev-haskell/aeson-2.1.2.1::gentoo
+# required by dev-util/shellcheck-0.9.0-r2::gentoo
+# required by dev-util/shellcheck (argument)
+=dev-haskell/statevar-1.2.2 ~amd64
+# required by dev-haskell/semigroupoids-5.3.7-r1::gentoo
+# required by dev-haskell/semialign-1.3::gentoo[semigroupoids]
+# required by dev-haskell/aeson-2.1.2.1::gentoo
+# required by dev-util/shellcheck-0.9.0-r2::gentoo
+# required by dev-util/shellcheck (argument)
+=dev-haskell/comonad-5.0.8-r1 ~amd64
+# required by dev-haskell/attoparsec-0.14.4-r1::gentoo
+# required by dev-haskell/aeson-2.1.2.1::gentoo
+# required by dev-util/shellcheck-0.9.0-r2::gentoo
+# required by dev-util/shellcheck (argument)
+=dev-haskell/scientific-0.3.7.0-r2 ~amd64
+# required by dev-haskell/semigroupoids-5.3.7-r1::gentoo
+# required by dev-haskell/semialign-1.3::gentoo[semigroupoids]
+# required by dev-haskell/aeson-2.1.2.1::gentoo
+# required by dev-util/shellcheck-0.9.0-r2::gentoo
+# required by dev-util/shellcheck (argument)
+=dev-haskell/transformers-compat-0.7.2 ~amd64
+# required by dev-haskell/scientific-0.3.7.0-r2::gentoo
+# required by dev-haskell/attoparsec-0.14.4-r1::gentoo
+# required by dev-haskell/aeson-2.1.2.1::gentoo
+# required by dev-util/shellcheck-0.9.0-r2::gentoo
+# required by dev-util/shellcheck (argument)
+=dev-haskell/integer-logarithms-1.0.3.1-r2 ~amd64
+# required by dev-haskell/indexed-traversable-instances-0.1.1.2::gentoo
+# required by dev-haskell/semialign-1.3::gentoo
+# required by dev-haskell/aeson-2.1.2.1::gentoo
+# required by dev-util/shellcheck-0.9.0-r2::gentoo
+# required by dev-util/shellcheck (argument)
+=dev-haskell/onetuple-0.4.1.1 ~amd64
+# required by dev-haskell/quickcheck-2.14.3::gentoo
+# required by dev-haskell/aeson-2.1.2.1::gentoo
+# required by dev-util/shellcheck-0.9.0-r2::gentoo
+# required by dev-util/shellcheck (argument)
+=dev-haskell/random-1.2.1.1 ~amd64
+# required by dev-haskell/aeson-2.1.2.1::gentoo
+# required by dev-util/shellcheck-0.9.0-r2::gentoo
+# required by dev-util/shellcheck (argument)
+=dev-haskell/witherable-0.4.2-r1 ~amd64
+# required by dev-haskell/random-1.2.1.1::gentoo
+# required by dev-haskell/uuid-types-1.0.5-r1::gentoo
+# required by dev-haskell/aeson-2.1.2.1::gentoo
+# required by dev-util/shellcheck-0.9.0-r2::gentoo
+# required by dev-util/shellcheck (argument)
+=dev-haskell/splitmix-0.1.0.4 ~amd64
+# required by dev-haskell/bifunctors-5.5.15::gentoo
+# required by dev-haskell/semigroupoids-5.3.7-r1::gentoo
+# required by dev-haskell/semialign-1.3::gentoo[semigroupoids]
+# required by dev-haskell/aeson-2.1.2.1::gentoo
+# required by dev-util/shellcheck-0.9.0-r2::gentoo
+# required by dev-util/shellcheck (argument)
+=dev-haskell/th-abstraction-0.4.5.0 ~amd64
+# required by dev-haskell/stm-2.5.0.2-r1::gentoo
+# required by dev-haskell/statevar-1.2.2::gentoo
+# required by dev-haskell/contravariant-1.5.5::gentoo[statevar]
+# required by dev-haskell/semigroupoids-5.3.7-r1::gentoo
+# required by dev-haskell/semialign-1.3::gentoo[semigroupoids]
+# required by dev-haskell/aeson-2.1.2.1::gentoo
+# required by dev-util/shellcheck-0.9.0-r2::gentoo
+# required by dev-util/shellcheck (argument)
+=dev-lang/ghc-9.2.8 ~amd64
+# required by dev-haskell/witherable-0.4.2-r1::gentoo
+# required by dev-haskell/aeson-2.1.2.1::gentoo
+# required by dev-util/shellcheck-0.9.0-r2::gentoo
+# required by dev-util/shellcheck (argument)
+=dev-haskell/indexed-traversable-0.1.2.1 ~amd64
+# required by dev-haskell/aeson-2.1.2.1::gentoo
+# required by dev-util/shellcheck-0.9.0-r2::gentoo
+# required by dev-util/shellcheck (argument)
+=dev-haskell/strict-0.5 ~amd64
+# required by dev-haskell/comonad-5.0.8-r1::gentoo
+# required by dev-haskell/bifunctors-5.5.15::gentoo
+# required by dev-haskell/semigroupoids-5.3.7-r1::gentoo
+# required by dev-haskell/semialign-1.3::gentoo[semigroupoids]
+# required by dev-haskell/aeson-2.1.2.1::gentoo
+# required by dev-util/shellcheck-0.9.0-r2::gentoo
+# required by dev-util/shellcheck (argument)
+=dev-haskell/cabal-3.6.3.0 ~amd64
+# required by dev-haskell/time-compat-1.9.6.1-r1::gentoo
+# required by dev-haskell/aeson-2.1.2.1::gentoo
+# required by dev-util/shellcheck-0.9.0-r2::gentoo
+# required by dev-util/shellcheck (argument)
+=dev-haskell/hashable-1.4.2.0-r2 ~amd64
+# required by dev-util/shellcheck-0.9.0-r2::gentoo
+# required by dev-util/shellcheck (argument)
+=dev-haskell/quickcheck-2.14.3 ~amd64
+# required by app-text/texlab (argument)
+=app-text/texlab-5.23.1 ~amd64
+# required by app-misc/pfetch (argument)
+=app-misc/pfetch-1.3.0 ~amd64
+# required by sys-power/auto-cpufreq (argument)
+=sys-power/auto-cpufreq-2.4.0 ~amd64
+# required by pamixer (argument)
+=media-sound/pamixer-1.6 ~amd64
+# required by www-client/zen-bin (argument)
+=www-client/zen-bin-1.17.3b ~amd64
+# required by yazi (argument)
+=app-misc/yazi-25.5.31 ~amd64
