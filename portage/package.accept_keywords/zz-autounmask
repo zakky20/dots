@@ -1,0 +1,117 @@
+# package.accept_keywords# required by sys-auth/hyprpolkitagent (argument)
+=sys-auth/hyprpolkitagent-0.1.2 ~amd64
+# required by gui-libs/xdg-desktop-portal-hyprland (argument)
+=gui-libs/xdg-desktop-portal-hyprland-1.3.11 ~amd64
+# required by gui-libs/xdg-desktop-portal-hyprland-1.3.11::guru
+# required by gui-libs/xdg-desktop-portal-hyprland (argument)
+=dev-cpp/sdbus-c++-2.1.0 ~amd64
+# required by www-client/zen-bin (argument)
+=www-client/zen-bin-1.17.14b ~amd64
+# required by app-misc/nwg-look (argument)
+=app-misc/nwg-look-1.0.6 ~amd64
+# required by app-misc/nwg-look-1.0.6::guru
+# required by app-misc/nwg-look (argument)
+=x11-apps/xcur2png-0.7.1-r3 ~amd64
+# required by x11-misc/rofi-calc (argument)
+=x11-misc/rofi-calc-2.5.0 ~amd64
+# required by zoxide (argument)
+=app-shells/zoxide-0.9.8 ~amd64
+# required by rofi-wayland (argument)
+=gui-apps/rofi-wayland-1.7.8_p1 ~amd64
+# required by brightnessctl (argument)
+=app-misc/brightnessctl-0.5.1 ~amd64
+# required by quickshell (argument)
+=gui-apps/quickshell-0.2.1 ~amd64
+# required by matugen (argument)
+=x11-misc/matugen-2.4.1 ~amd64
+# required by cliphist (argument)
+=app-misc/cliphist-0.7.0 ~amd64
+# required by gpu-screen-recorder (argument)
+=media-video/gpu-screen-recorder-5.10.2 ~amd64
+# required by dev-util/breakpad-2024.02.16::gentoo
+# required by gui-apps/quickshell-0.2.1::guru[breakpad]
+# required by quickshell (argument)
+=dev-embedded/libdisasm-0.23-r1 ~amd64
+# required by dev-util/breakpad-2024.02.16::gentoo
+# required by gui-apps/quickshell-0.2.1::guru[breakpad]
+# required by quickshell (argument)
+=dev-libs/linux-syscall-support-2024.02.01 ~amd64
+# required by wlsunset (argument)
+=gui-apps/wlsunset-0.4.0 ~amd64
+# required by gui-apps/quickshell-0.2.1::guru[breakpad]
+# required by quickshell (argument)
+=dev-util/breakpad-2024.02.16 ~amd64
+# required by awww (argument)
+=gui-apps/awww-0.11.2 ~amd64
+# required by pfetch (argument)
+=app-misc/pfetch-1.9.4 ~amd64
+# required by obs-studio (argument)
+=media-video/obs-studio-32.0.4 ~amd64
+# required by heroic-bin (argument)
+=games-util/heroic-bin-2.18.1 ~amd64
+# required by ani-cli (argument)
+=app-misc/ani-cli-4.10 ~amd64
+# required by yazi (argument)
+=app-misc/yazi-25.5.31 ~amd64
+# required by anydesk (argument)
+=net-misc/anydesk-7.1.1 ~amd64
+# required by gui-apps/hyprshot (argument)
+=gui-apps/hyprshot-1.3.0-r1 ~amd64
+# required by media-gfx/loupe (argument)
+=media-gfx/loupe-48.1-r2 ~amd64
+# required by x11-drivers/OpenTabletDriver (argument)
+=x11-drivers/OpenTabletDriver-0.6.6.2 ~amd64
+# required by hyprpicker (argument)
+=gui-apps/hyprpicker-0.4.5 ~amd64
+# required by gui-wm/niri (argument)
+=gui-wm/niri-25.11-r1 ~amd64
+# required by xwayland-satellite (argument)
+=gui-apps/xwayland-satellite-0.8 ~amd64
+# required by www-apps/jellyfin-bin (argument)
+=www-apps/jellyfin-bin-10.11.5 ~amd64
+# required by tty-clock (argument)
+=app-misc/tty-clock-2.3 ~amd64
+# required by cbonsai (argument)
+=games-misc/cbonsai-1.3.1-r1 ~amd64
+# required by proton-vpn-gtk-app (argument)
+=net-vpn/proton-vpn-gtk-app-4.11.0 ~amd64
+# required by net-vpn/proton-vpn-gtk-app-4.11.0::guru[python_single_target_python3_13]
+# required by proton-vpn-gtk-app (argument)
+=dev-python/proton-keyring-linux-0.2.0 ~amd64
+# required by dev-python/proton-vpn-network-manager-0.13.0::guru
+# required by net-vpn/proton-vpn-gtk-app-4.11.0::guru[python_single_target_python3_13]
+# required by proton-vpn-gtk-app (argument)
+=dev-python/proton-vpn-local-agent-1.4.8 ~amd64
+# required by net-vpn/proton-vpn-gtk-app-4.11.0::guru[python_single_target_python3_13]
+# required by proton-vpn-gtk-app (argument)
+=dev-python/proton-vpn-api-core-0.46.1 ~amd64
+# required by net-vpn/proton-vpn-gtk-app-4.11.0::guru[python_single_target_python3_13]
+# required by proton-vpn-gtk-app (argument)
+=dev-python/proton-vpn-network-manager-0.13.0 ~amd64
+# required by net-vpn/proton-vpn-gtk-app-4.11.0::guru[python_single_target_python3_13]
+# required by proton-vpn-gtk-app (argument)
+=dev-python/proton-core-0.7.0 ~amd64
+# required by lazygit (argument)
+=dev-vcs/lazygit-0.57.0 ~amd64
+# required by sys-kernel/linux-firmware-20250808::gentoo[dist-kernel]
+# required by @selected
+# required by @world (argument)
+=virtual/dist-kernel-6.18.2 ~amd64
+# required by @__auto_slot_operator_replace_installed__ (argument)
+=media-video/ffmpeg-8.0.1 ~amd64
+# required by @__auto_slot_operator_replace_installed__ (argument)
+=media-video/ffmpeg-9999 **
+# required by @__auto_slot_operator_replace_installed__ (argument)
+=media-video/obs-studio-32.0.2-r1 ~amd64
+# required by app-misc/anki (argument)
+=app-misc/anki-25.09.2 ~amd64
+# required by app-misc/nexusfetch (argument)
+=app-misc/nexusfetch-1.2.2 ~amd64
+# required by app-misc/profiledetect (argument)
+=app-misc/profiledetect-0.2 ~amd64
+# required by app-misc/pfetch-rs (argument)
+=app-misc/pfetch-rs-2.11.1 ~amd64
+# required by app-misc/cutefetch (argument)
+=app-misc/cutefetch-0.0.1_p2408 ~amd64
+# required by x11-drivers/OpenTabletDriver-bin (argument)
+=x11-drivers/OpenTabletDriver-bin-0.6.3.0 ~amd64
