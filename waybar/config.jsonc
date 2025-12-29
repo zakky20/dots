@@ -1,0 +1,105 @@
+{
+    "position": "top",
+    "margin-top": 15,
+    "modules-left": ["custom/media", "custom/weather", "hyprland/submap", ],
+    "modules-center": ["clock", "hyprland/workspaces"],
+    "modules-right": ["cpu", "memory", "pulseaudio", "custom/notification"],
+
+    "clock": {
+        "interval": 60,
+        "format": "{:%H:%M}",
+        "max-length": 25,
+    },
+
+    "hyprland/submap": {
+        "format": "{}",
+        "tooltip": false,
+    },
+
+    "hyprland/workspaces": {
+        "format": "{name}",
+    },
+
+    "persistent-workspaces": {
+        "*": 5,
+    },
+
+    "tray": {
+        "icon-size": 18,
+        "spacing": 10,
+
+    },
+
+    "pulseaudio": {
+        "format": "{icon} {volume}%",
+        "format-bluetooth": " {icon} {volume}%",
+        "format-muted": " ",
+        "scroll-step": 1,
+        "on-click": "pavucontrol",
+    },
+
+    "network": {
+        "interface": "eno1",
+        "format": "{ifname}",
+        "format-ethernet": "{ipaddr}/{cidr} 󰈀",
+        "format-disconnected": "󰈂",
+        "tooltip-format-ethernet": "{ifname} ",
+        "tooltip-format-disconnected": "Disconnected",
+        "max-length": 50
+    },
+
+    "cpu": {
+        "interval": 10,
+        "format": "  {}%",
+        "max-length": 10,
+    },
+
+    "memory": {
+        "interval": 30,
+        "format": "  {}%",
+        "max-length": 10,
+    },
+
+    "custom/weather": {
+        "exec": "${HOME}/.config/waybar/scripts/get_weather.sh Galati+Romania",
+        "return-type": "json",
+        "format": "{}",
+        "tooltip": true,
+        "interval": 3600,
+    },
+
+    "custom/media": {
+        "format": "{}",
+        "escape": true,
+        "return-type": "json",
+        "max-length": 20,
+        // "interval": 5,
+        "on-click": "playerctl play-pause",
+        "on-click-right": "playerctl stop",
+        "smooth-scrolling-threshold": 10,
+        "on-scroll-up": "playerctl next",
+        "on-scroll-down": "playerctl previous",
+        "exec": "/home/zakky/.config/waybar/scripts/player.sh 2>/dev/null", 
+    },
+
+    "custom/notification": {
+        "tooltip": true,
+        "format": "<span size='13pt'>{icon}</span>",
+        "format-icons": {
+          "notification": "󱅫",
+          "none": "󰂜",
+          "dnd-notification": "󰂠",
+          "dnd-none": "󰪓",
+          "inhibited-notification": "󰂛",
+          "inhibited-none": "󰪑",
+          "dnd-inhibited-notification": "󰂛",
+          "dnd-inhibited-none": "󰪑"
+    },
+        "return-type": "json",
+        "exec-if": "which swaync-client",
+        "exec": "swaync-client -swb",
+        "on-click": "swaync-client -t -sw",
+        "on-click-right": "swaync-client -d -sw",
+        "escape": true
+    },
+}
