@@ -61,7 +61,7 @@
     },
 
     "custom/weather": {
-        "exec": "${HOME}/.config/waybar/scripts/get_weather.sh Galati+Romania",
+        "exec": "${HOME}/.config/waybar/scripts/get_weather.sh UrCity+UrCountry",
         "return-type": "json",
         "format": "{}",
         "tooltip": true,
